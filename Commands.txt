@@ -1,4 +1,10 @@
 git clone https://github.com/austinmetz/AustinMetzLab4.git
 
-git add ReadMet.txt
+git add ReadMe.txt
 git add Commands.txt
+
+git commit -m "adding the readme and command list"
+git push
+
+git commit -m "adding changes and tag name to remote"
+git push origin v1.5
